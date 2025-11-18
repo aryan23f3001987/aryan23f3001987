@@ -41,8 +41,7 @@ Machine Learning | Deep Learning | scikit-learn | Pandas | NumPy
 ---
 
 ## 🔥 GitHub Streak  
-![GitHub Streak](https://streak-stats.demolab.com?user=aryan23f3001987&theme=tokyonight&hide_border=false)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aryan23f3001987&theme=tokyonight&hide_border=false)
 
 ---
 
