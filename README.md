@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Thakur</h1>
-<h3 align="center">Passionate ML Engineer | MERN Developer | Problem Solver</h3>
+<h3 align="center">Passionate ML Engineer  | Problem Solver</h3>
 
 ---
 
@@ -41,9 +41,7 @@ Machine Learning | Deep Learning | scikit-learn | Pandas | NumPy
 ---
 
 ## 🔥 GitHub Streak  
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aryan23f3001987&theme=tokyonight" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=aryan23f3001987&theme=tokyonight)
 
 ---
 
