@@ -12,13 +12,13 @@
 
 ---
 
-## 🛠️ Tech Stack  
-- **Languages:** C++, JavaScript, Python  
-- **Frontend:** React.js, Tailwind CSS, Chakra UI  
+- **Languages:** C++, Python, JavaScript  
+- **Frontend:** React.js
 - **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, MySQL  
-- **Data Science:** Machine Learning, Deep Learning, scikit-learn  
-- **Others:** Git, GitHub, Hugging Face API, Cloudinary  
+- **Databases:** MongoDB, MySQL  
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Machine Learning / Deep Learning:** scikit-learn, TensorFlow / Keras, PyTorch (basic), Model Fine-tuning  
+- **Tools & Others:** Git, GitHub, VS Code, Jupyter Notebook, Google Colab, Hugging Face API  
 
 ---
 
