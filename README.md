@@ -1,4 +1,4 @@
-#Aryan Thakur
+# Aryan Thakur
 
 🎓 Student at **NIT SILCHAR** & **IIT Madras** | 💻 Passionate about *Tech*  
 
