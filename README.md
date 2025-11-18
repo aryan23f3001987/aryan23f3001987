@@ -1,4 +1,4 @@
-# I am Aryan Thakur || Problem Solver  
+#Aryan Thakur
 
 🎓 Student at **NIT SILCHAR** & **IIT Madras** | 💻 Passionate about *Tech*  
 
