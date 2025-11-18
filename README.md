@@ -1,72 +1,70 @@
-<h1 align="center">Hi 👋, I'm Aryan Thakur</h1>
-<h3 align="center">Passionate ML Engineer  | Problem Solver</h3>
+# I am Aryan Thakur || Problem Solver  
+
+🎓 Student at **NIT SILCHAR** & **IIT Madras** | 💻 Passionate about *Tech*  
 
 ---
 
-## 🚀 About Me  
-- 🎓 Student at **NIT Silchar** & **IIT Madras**  
-- 🤖 Machine Learning & Deep Learning Enthusiast  
-- 💻 MERN Stack Developer  
-- 🧩 DSA in C++  
-- 🎯 Love building real-world AI/ML projects  
+## 👨‍💻 About Me  
+- ⚡ **Machine Learning & Deep Learning Enthusiast**  
+- 🌐 **MERN Stack Developer**  
+- 🧩 **DSA in C++**  
+- 🤖 AI, ML, DL Projects  
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Languages  
-C++ | Python | JavaScript  
-
-### 🎨 Frontend  
-React.js | Tailwind CSS | Chakra UI  
-
-### ⚙️ Backend  
-Node.js | Express.js  
-
-### 🗄️ Databases  
-MongoDB | MySQL  
-
-### 📊 Data Science  
-Machine Learning | Deep Learning | scikit-learn | Pandas | NumPy  
+## 🛠️ Tech Stack  
+- **Languages:** C++, JavaScript, Python  
+- **Frontend:** React.js, Tailwind CSS, Chakra UI  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, MySQL  
+- **Data Science:** Machine Learning, Deep Learning, scikit-learn  
+- **Others:** Git, GitHub, Hugging Face API, Cloudinary  
 
 ---
 
-## 📊 GitHub Stats
-
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan23f3001987&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan23f3001987&layout=compact&theme=tokyonight" height="180px"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan23f3001987&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>  
 
 ---
 
-## 🔥 GitHub Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aryan23f3001987&theme=tokyonight&hide_border=false)
+## 🔥 Streak Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aryan23f3001987&theme=radical" alt="GitHub Streak" />
+</p>  
 
 ---
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryan23f3001987&theme=tokyonight&margin-w=10&column=6" />
-</p>
+  <img src="https://github-profile-trophy.vercel.app/?username=aryan23f3001987&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
+</p>  
 
 ---
 
-## 🐍 Contribution Snake  
+## 📌 Top Languages  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aryan23f3001987/aryan23f3001987/output/github-contribution-grid-snake.svg" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan23f3001987&layout=compact&theme=radical" alt="Top Languages" />
+</p>  
 
 ---
 
-## 📫 Connect With Me  
-<p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
-</a>
-</p>
+## ✨ Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan23f3001987&theme=react-dark" alt="Contribution Graph" />
+</p>  
 
 ---
 
-⭐ *If you like this profile, feel free to star my repositories!*  
+## 📫 Let's Connect!  
+💌 **Email:** [aryan030803@gmail.com](mailto:aryan030803@gmail.com)  
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/aryan-thakur-b3075a2ba/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:aryan030803@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
