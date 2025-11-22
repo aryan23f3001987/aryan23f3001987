@@ -57,6 +57,36 @@
 
 ---
 
+## 🧰 Languages and Tools:
+
+<p align="center">
+  
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript" height="50" />
+
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" height="50" />
+
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="50" />
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="50" />
+
+  <!-- Data Analysis -->
+  <img src="https://skillicons.dev/icons?i=pandas,numpy" height="50" />
+
+  <!-- Machine Learning / Deep Learning -->
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="50" />
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="50" />
+  <img src="https://skillicons.dev/icons?i=stackoverflow" height="50" />
+
+</p>
+
+--
+
 ## 📫 Let's Connect!  
 💌 **Email:** [aryan030803@gmail.com](mailto:aryan030803@gmail.com)  
 
